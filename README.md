@@ -1,29 +1,55 @@
-# Assignment 1: Python Basics
+# ExcelR Data Science Assignments
 
-This assignment is part of the ongoing Data Science certification program at ExcelR.
-It focuses on understanding and applying Python fundamentals.
+This repository contains hands-on assignments completed as part of an ongoing Data Science certification program at ExcelR.
+The assignments focus on building strong foundations in Python and data handling for data science applications.
 
-## Problems Solved
+## Assignment 1: Python Basics
 
-### Problem 1: Basic Python Syntax
-- Variables and data types
+### Topics Covered
+- Python syntax and data types
 - Input and output operations
-- Basic arithmetic operations
+- Control statements (if-else, loops)
+- Basic problem-solving using Python
 
-### Problem 2: Control Statements
-- Conditional statements (if, elif, else)
-- Looping concepts (for loop, while loop)
-- Logical decision making
+### Problems Solved
+- Implemented programs using basic Python syntax
+- Solved problems using conditional statements and loops
+- Wrote simple Python programs to strengthen logical thinking
 
-### Problem 3: Functions and Basic Programs
-- Defining and calling functions
-- Writing simple Python programs
-- Code reusability using functions
-
-## Tools Used
+### Tools Used
 - Python
 - Jupyter Notebook
 
-## Files
-- Basics of python.ipynb – Python programs and solutions
-- Basics of python.docx – Assignment questions and explanations
+## Assignment 2: Data Structures, Functions, NumPy & Pandas
+
+#### Data Structures
+- Lists, Tuples, Sets, Dictionaries
+- Indexing, slicing, and iteration
+
+#### Functions
+- Defining and calling functions
+- Writing reusable and modular code
+
+#### NumPy
+- Creating and manipulating arrays
+- Performing numerical and mathematical operations
+
+#### Pandas
+- Creating Series and DataFrames
+- Data filtering and basic data analysis
+- Handling missing values
+
+### Problems Solved
+- Applied data structures to solve practical problems
+- Developed reusable functions for problem-solving
+- Performed numerical computations using NumPy
+- Analyzed and manipulated datasets using Pandas
+
+### Tools Used
+- Python
+- Jupyter Notebook
+- NumPy
+- Pandas
+
+## Repository Structure
+
